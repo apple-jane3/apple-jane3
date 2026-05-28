@@ -10,7 +10,7 @@
 
 <p align="center">
   Cozy freelancer developer from the Philippines ✨ <br/>
-  Building beautiful and user-friendly web experiences.
+  Building beautiful and user-friendly web n app experiences.
 </p>
 
 ---
