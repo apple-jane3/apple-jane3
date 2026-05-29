@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hello%20World%20🌸&fontAlign=50&fontAlignY=40&color=gradient&customColorList=20,24,25,27" />
 </p>
 
-<h1 align="center"> Hi, I'm Apple</h1>
+<h1 align="center"> Hi, I'm Apple Jane Talisic</h1>
 
 <p align="center">
   Cozy freelancer developer from the Philippines ✨ <br/>
