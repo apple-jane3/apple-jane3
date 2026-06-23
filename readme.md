@@ -11,6 +11,7 @@
 <p align="center">
   Cozy freelancer developer from the Philippines ✨ <br/>
   Building beautiful and user-friendly web n app experiences.
+  <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#101;&#120;&#097;&#109;&#112;&#108;&#101;&#046;&#099;&#111;&#109;">Contact Me</a>
 </p>
 
 ---
