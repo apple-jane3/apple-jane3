@@ -11,7 +11,7 @@
 <p align="center">
   Cozy freelancer developer from the Philippines ✨ <br/>
   Building beautiful and user-friendly web n app experiences.
-  [Send me an email](mailto:talisicapple416@gmail.com)
+  <a href="mailto:talisicapple416@gmail.com">Contact Me</a>
 </p>
 
 ---
