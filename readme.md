@@ -25,6 +25,7 @@ specialty:
   - Hybrid Mobile app Development
   - Responsive Websites
 currently_learning:
+  - COBOL
   - AI Integrations
   - Motion UI
 hobbies:
