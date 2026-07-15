@@ -22,6 +22,7 @@
 location: Philippines
 specialty:
   - Frontend Website Development
+  - Backend Development
   - Hybrid Mobile app Development
   - Responsive Websites
 currently_learning:
